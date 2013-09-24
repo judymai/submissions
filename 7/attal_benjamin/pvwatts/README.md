@@ -13,10 +13,10 @@ PvWatts Widget
   * The purpose is to provide Solaire (the company my dad works for) with a service to estimate the cost of setting up their solar cells
 
 ## Status
-  * Currently, the data accessed through the api is not displayed in a table
+  * Currently, the data accessed through the api is displayed in a table
 
 ## Running
-  * Simply run `python app.py` in the terminal and open localhost:500
+  * Simply run `python app.py` in the terminal and open localhost:5000
   * Enter an address and other data to get montly cost estimates
 
 ## Uses
